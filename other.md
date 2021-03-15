@@ -35,3 +35,5 @@ int main(){
   // should output 9
 }
 ```
+### Main
+`main` is a required fuction in every c++ program. 
